@@ -1632,10 +1632,7 @@ section
 
 }
 
-#main .items{
-	width:33.33333%;
-	float:left;
-}
+
 
 @media screen and (max-width: 1000px) and (min-width: 700px){
 	#main .items{
@@ -1672,10 +1669,7 @@ section
 
 .product-detail .price{font-weight: bold;color:#000;}
 
-table{
-	width:70%;
-	margin:0 auto;
-}
+
 
 thead{
 	background-color:#5892B9;
