@@ -1623,17 +1623,7 @@ section
 }
 /*----------------------------------------------------------*/
 
-#ts{
-    margin-top: 0;
-    padding-top: 26px;
-    padding-left: 20px;
-}
-#header a{
-	 text-decoration: none;
-	 color:#fff;
-	 overflow: hidden;
 
-}
 .cart{
 	float:left;
 	margin-top:-43px;
