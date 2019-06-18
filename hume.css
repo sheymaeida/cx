@@ -1623,20 +1623,6 @@ section
 }
 /*----------------------------------------------------------*/
 
-#sidebar{
-	float:left;
-	width:25%;
-}
-#sidebar ul li{
-	width:50%;
-	display: block;
-	list-style:none;
-}
-#sidebar ul li a{
-	text-decoration: none;
-	padding:10px;
-
-}
 .selected{
 	background-color:#5892B9;
 	color:#fff;
