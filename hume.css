@@ -1632,22 +1632,6 @@ section
 
 }
 
-#main{
-	float:left;
-	width:75%;
-	overflow: hidden;
-	top:50px;
-	left:20px;
-}
-#mian h1{
-	padding: 10px;
-}
-#mian .items img{
-	margin:5;
-	padding:3;
-	border-radius: 5px;
-}
-
 #main .items{
 	width:33.33333%;
 	float:left;
